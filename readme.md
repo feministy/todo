@@ -20,7 +20,7 @@ Download all files. Run ```todo.rb```.
 
 ------
 
-**Coming soon:***
+**Coming soon:**
 
 * "Un"complete a task
 * Categorize tasks
@@ -35,7 +35,8 @@ Download all files. Run ```todo.rb```.
 
 * .txt (read/write)
 
-*Format requirement*
+*Format requirements*  
+  
 Each task should include:
 
 * Any number
