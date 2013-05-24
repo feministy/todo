@@ -1,12 +1,21 @@
-Be from Australia
-Meet a boy on a beach
-Fall in love
-Leave for the summer
-Move to America
-Start high school
-Run into the boy from the beach
-Play it cool
-Become a cheerleader
-Get some hotpants
-Totally change for him
-Ride around in a Ford Thunderbird
+0-Be from Australia
+0-Meet a boy on a beach
+0-Fall in love
+0-Leave for the summer
+0-Move to America
+0-Start high school
+0-Run into the boy from the beach
+0-Play it cool
+X-Become a cheerleader
+0-Get some hotpants
+0-Totally change for him
+0-Ride around in a Ford Thunderbird
+X-Lose my mind
+0-Lose my mind
+0-Poop my pants
+0-Eat some cheesecake
+0-Play with Kiwi!
+0-Lose my mind
+0-Poop my pants
+0-Eat some cheesecake
+0-Play with Kiwi!
