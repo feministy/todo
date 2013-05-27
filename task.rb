@@ -13,9 +13,4 @@ class Task
   def complete
     @status = "X"
   end 
-
-  def find_status_key
-    task = @task.keys
-    task[0]
-  end 
 end
